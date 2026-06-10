@@ -16,6 +16,8 @@ http://dcxsqwn.mmastertv.xyz:900/live/9601350159/6184616010/400159598.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports 501 HD
 http://iptvtree.net:8080/live/F15554/Tve5ZWQEd485/279034.ts
 #EXTINF:-1 group-title="Sports", Starzplay CricLife
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD",TSN The Ocho (1080p)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 
 ########## NEWS ##########
